@@ -21,7 +21,6 @@ This repo contains the resources to be used during the "Running JMeter Tests On 
 * Docker: https://www.docker.com/
 * Rancher v1.x
    * Official Site: http://rancher.com/rancher/
-   * Rancher Workshop: https://github.com/satrapu/rancher-workshop
    * GitHub
        * https://github.com/rancher/rancher/
        * https://github.com/rancher/rancher/releases
@@ -32,3 +31,4 @@ This repo contains the resources to be used during the "Running JMeter Tests On 
    * Forum: https://forums.rancher.com/
    * Youtube channel: https://www.youtube.com/channel/UCh5Xtp82q8wjijP8npkVTBA
    * Playground: https://try.rancher.com/
+ * Rancher Workshop: https://github.com/satrapu/rancher-workshop
