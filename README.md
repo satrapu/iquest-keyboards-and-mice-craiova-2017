@@ -20,7 +20,7 @@ This repo contains the resources to be used during the "Running JMeter Tests On 
     * Official Site: https://jenkins.io/
     * User Documentation: https://jenkins.io/doc/
     * Jenkins Pipeline: https://jenkins.io/doc/book/pipeline/
-    * BlueOcean: https://jenkins.io/projects/blueocean/
+    * Blue Ocean: https://jenkins.io/projects/blueocean/
     * Cookbok by CloudBees: https://go.cloudbees.com/docs/cloudbees-documentation/cookbook/book.html
 * Docker: https://www.docker.com/
 * Rancher v1.x
