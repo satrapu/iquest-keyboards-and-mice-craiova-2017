@@ -31,4 +31,4 @@ This repo contains the resources to be used during the "Running JMeter Tests On 
    * Forum: https://forums.rancher.com/
    * Youtube channel: https://www.youtube.com/channel/UCh5Xtp82q8wjijP8npkVTBA
    * Playground: https://try.rancher.com/
- * Rancher Workshop: https://github.com/satrapu/rancher-workshop
+   * Workshop: https://github.com/satrapu/rancher-workshop
