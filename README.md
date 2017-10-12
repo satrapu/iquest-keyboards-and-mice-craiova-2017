@@ -28,7 +28,7 @@ This repo contains the resources to be used during "Running JMeter Tests On Ranc
     * Blue Ocean: https://jenkins.io/projects/blueocean/
     * Cookbok by CloudBees: https://go.cloudbees.com/docs/cloudbees-documentation/cookbook/book.html
 * Docker
-    * Official site: https://www.docker.com/
+    * Official Site: https://www.docker.com/
     * Documentation: https://docs.docker.com/
     * Playground: http://training.play-with-docker.com/
 * Rancher v1.x
