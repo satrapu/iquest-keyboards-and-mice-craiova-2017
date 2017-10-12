@@ -1,7 +1,8 @@
 # iQuest Keyboards & Mice - Craiova - 2017
 **Table of Contents**  
 - [Description](#description)  
-- [Presentation Slides](#slides)  
+- [Presentation Slides](#slides) 
+- [Workshop](#workshop) 
 - [References](#references)   
 
 <a name="description">Description</a>
@@ -11,6 +12,10 @@ This repo contains the resources to be used during "Running JMeter Tests On Ranc
 <a name="slides">Presentation Slides</a>
 --
 * TBD
+
+<a name="workshop">Workshop</a>
+--
+* https://github.com/satrapu/rancher-workshop
 
 <a name="references">References</a>
 --
@@ -38,4 +43,3 @@ This repo contains the resources to be used during "Running JMeter Tests On Ranc
    * Forum: https://forums.rancher.com/
    * Youtube channel: https://www.youtube.com/channel/UCh5Xtp82q8wjijP8npkVTBA
    * Playground: https://try.rancher.com/
-   * Workshop: https://github.com/satrapu/rancher-workshop
