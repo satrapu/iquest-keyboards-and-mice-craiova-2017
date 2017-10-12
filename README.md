@@ -6,7 +6,7 @@
 
 <a name="description">Description</a>
 --
-This repo contains the resources to be used during "Running JMeter Tests On Rancher" presentation and Rancher workshop at the [Keyboards & Mice](http://www.iquestgroup.com/en/event/keyboards-and-mice-craiova-2017/) iQuest public event, which is scheduled to place in Craiova on October 19th, 2017.
+This repo contains the resources to be used during "Running JMeter Tests On Rancher" presentation and Rancher workshop at the [Keyboards & Mice](http://www.iquestgroup.com/en/event/keyboards-and-mice-craiova-2017/) iQuest public event, which is scheduled to take place in Craiova on October 19th, 2017.
 
 <a name="slides">Presentation Slides</a>
 --
@@ -22,7 +22,10 @@ This repo contains the resources to be used during "Running JMeter Tests On Ranc
     * Jenkins Pipeline: https://jenkins.io/doc/book/pipeline/
     * Blue Ocean: https://jenkins.io/projects/blueocean/
     * Cookbok by CloudBees: https://go.cloudbees.com/docs/cloudbees-documentation/cookbook/book.html
-* Docker: https://www.docker.com/
+* Docker
+    * Official site: https://www.docker.com/
+    * Documentation: https://docs.docker.com/
+    * Playground: http://training.play-with-docker.com/
 * Rancher v1.x
    * Official Site: http://rancher.com/rancher/
    * GitHub
