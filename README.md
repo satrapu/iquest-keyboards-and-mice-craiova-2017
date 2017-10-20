@@ -11,7 +11,7 @@ This repo contains the resources to be used during "Running JMeter Tests On Ranc
 
 <a name="slides">Presentation Slides</a>
 --
-* TBD
+* https://www.slideshare.net/satrapu/runing-jmeter-tests-on-rancher
 
 <a name="workshop">Workshop</a>
 --
