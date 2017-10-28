@@ -2,6 +2,9 @@
 **Table of Contents**  
 - [Description](#description)  
 - [Presentation Slides](#slides) 
+- [Presentation Video](#video)
+- [Event Photos](#photos)
+- [Event Highlights Video](#highlights-video)
 - [Workshop](#workshop) 
 - [References](#references)   
 
@@ -11,11 +14,23 @@ This repo contains the resources to be used during "Running JMeter Tests On Ranc
 
 <a name="slides">Presentation Slides</a>
 --
-* https://www.slideshare.net/satrapu/runing-jmeter-tests-on-rancher
+* SlideShare: https://www.slideshare.net/satrapu/runing-jmeter-tests-on-rancher
 
+<a name="photos">Presentation Video [Romanian]<a/>
+--
+* YouTube: https://www.youtube.com/watch?v=wC2pKk0ahBY&t=875s
+
+<a name="photos">Event Photos<a/>
+--
+* Flickr: https://www.flickr.com/photos/iquestgroup/albums/72157688339374403
+   
+<a name="highlights-video">Event Highlights Video<a/>
+--
+* YouTube: https://www.youtube.com/watch?v=VcBQWwThc_k
+   
 <a name="workshop">Workshop</a>
 --
-* https://github.com/satrapu/rancher-workshop
+* GitHub: https://github.com/satrapu/rancher-workshop
 
 <a name="references">References</a>
 --
@@ -33,9 +48,9 @@ This repo contains the resources to be used during "Running JMeter Tests On Ranc
     * Playground: http://training.play-with-docker.com/
 * Rancher v1.x
    * Official Site: http://rancher.com/rancher/
-   * GitHub
-       * https://github.com/rancher/rancher/
-       * https://github.com/rancher/rancher/releases
+   * GitHub  
+     * https://github.com/rancher/rancher/
+     * https://github.com/rancher/rancher/releases
    * Documentation: http://rancher.com/docs/rancher/v1.6/en/
    * Learning Bundle: http://rancher.com/learn/
    * Support: http://rancher.com/support/
