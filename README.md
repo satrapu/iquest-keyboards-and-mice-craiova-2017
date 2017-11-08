@@ -10,7 +10,7 @@
 
 <a name="description">Description</a>
 --
-This repo contains the resources to be used during "Running JMeter Tests On Rancher" presentation and Rancher workshop at the [Keyboards & Mice](http://www.iquestgroup.com/en/event/keyboards-and-mice-craiova-2017/) iQuest public event, which is scheduled to take place in Craiova on October 19th, 2017.
+This repo contains the resources to be used during "Running JMeter Tests On Rancher" presentation and Rancher workshop at the [Keyboards & Mice](http://www.iquestgroup.com/en/event/keyboards-and-mice-craiova-2017/) iQuest public event, which took place in Craiova on October 19th, 2017.
 
 <a name="slides">Presentation Slides</a>
 --
